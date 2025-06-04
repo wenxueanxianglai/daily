@@ -13,4 +13,5 @@ function add_test_target(target_name, cpp_file)
         add_packages("fmt", "gtest")
 end
 
-add_test_target("test_two_sum", "1_two_sum.cpp")
+add_test_target("1_two_sum", "1_two_sum.cpp")
+add_test_target("2_add_two_numbers", "2_add_two_numbers.cpp")
