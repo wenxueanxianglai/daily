@@ -27,3 +27,8 @@ target("v1_linkedlist_stack")
     set_kind("binary")
     add_files("linkedlist_stack.cpp")
     add_packages("fmt", "gtest")
+
+target("v1_array_stack")
+    set_kind("binary")
+    add_files("array_stack.cpp") 
+    add_packages("fmt", "gtest")
