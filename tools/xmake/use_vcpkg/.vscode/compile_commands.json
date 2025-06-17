@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/mnt/f/personal_project/daily/tools/xmake/use_vcpkg",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++17", "-Ibuild/.gens/use_vcpkg/linux/x86_64/release/platform/windows/idl", "-isystem", "/home/ubuntu24_cpp/vcpkg/installed/x64-linux/lib/pkgconfig/../../include", "-DNDEBUG", "-o", "build/.objs/use_vcpkg/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
