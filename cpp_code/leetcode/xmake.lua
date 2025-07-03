@@ -15,3 +15,4 @@ end
 
 add_test_target("1_two_sum", "1_two_sum.cpp")
 add_test_target("2_add_two_numbers", "2_add_two_numbers.cpp")
+add_test_target("3_Longest_substring_without_repeating_characters", "3_Longest_substring_without_repeating_characters.cpp")
